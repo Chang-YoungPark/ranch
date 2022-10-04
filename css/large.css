@@ -11,8 +11,14 @@
 
     }
 
-    nav ul {padding-left: 2%;}
-    nav ul li{ flex-basis: auto;}
+
+    nav ul {
+        padding-left: 2%;
+        
+    }
+    nav ul li{ flex-basis: auto;
+        background-color:rgb(246, 122,78);
+    }
     nav ul{margin: 0; padding: 0;}
     nav li {float: left; width: 25%;} 
     nav li{list-style-type: none;}
