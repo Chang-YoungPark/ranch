@@ -32,7 +32,12 @@
         text-align: center;
         text-decoration: none;
     }
-
+    
+    main {
+        padding: 1rem 2%;
+        display: block;
+    }
+    
     main h1 {
         color: #17a8e4;
     }
